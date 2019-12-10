@@ -8,6 +8,6 @@ You have to create anew account in Twitter development  , to start your applicat
                                                             
                                                             
            
-                                                       
+_________________________________________________________________________________________________________________                                                      
 spring.social.twitter.app-id=............................ 
 spring.social.twitter.app-secret=.......................
